@@ -1,0 +1,31 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>About - Save Environment</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>About This Website</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+    <p>
+        This website is created to spread awareness about environmental protection.
+        Small steps by everyone can help save our planet.
+    </p>
+</section>
+
+<footer>
+    <p>Gauravy | Class 10th B</p>
+</footer>
+
+</body>
+</html>
